@@ -2,7 +2,11 @@
 
 this is first introduction
 
+<<<<<<< HEAD
 
 This is to resolve conflicts
 
 This is to resolve merge conflicts
+=======
+This is to resolve conflicts
+>>>>>>> main
