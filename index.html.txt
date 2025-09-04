@@ -1,3 +1,8 @@
 <p>This is a new paragraph </p>
 
 this is first introduction
+
+
+This is to resolve conflicts
+
+This is to resolve merge conflicts
